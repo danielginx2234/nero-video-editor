@@ -1,0 +1,9 @@
+# Language detection rules
+
+*.jpg binary
+*.go linguist-detectable
+build/* linguist-vendored
+*.gif binary
+**/*.go linguist-detectable
+*.htm linguist-vendored
+* text=auto
