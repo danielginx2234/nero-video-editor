@@ -1,0 +1,5 @@
+*.test
+*.dylib
+*.out
+*.exe
+go.sum
